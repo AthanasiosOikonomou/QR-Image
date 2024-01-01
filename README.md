@@ -14,8 +14,7 @@ git clone https://github.com/AthanasiosOikonomou/QR-Image.git
 
 # Install dependencies
 
-npm install inquirer
-npm install qr-image
+npm install
 
 # How to run the function
 
